@@ -9,9 +9,9 @@ public class ComparativoComEquals {
 // || -> OU
         int num1 = 5;
         int num2 = 10;
-        int soma = num1+num2;
+        int somarNumeros = num1+num2;
 
-        if (num1 == num2 || soma > 20){
+        if (num1 == num2 || somarNumeros > 20){
             System.out.println("agrega valor");
         } else {
             System.out.println("não agrega nada");

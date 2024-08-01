@@ -1,4 +1,4 @@
-public class EstruturaIF {
+public class EstruturaIf {
 
     public static void main(String[] args){
         int a, b;
