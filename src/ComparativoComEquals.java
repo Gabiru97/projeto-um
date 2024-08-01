@@ -10,11 +10,7 @@ public class ComparativoComEquals {
         int num1 = 5;
         int num2 = 10;
         int soma = num1+num2;
-//        if (num1 != num2 && num1 > 100){
-//            System.out.println("agrega valor");
-//        } else {
-//            System.out.println("não agrega nada");
-//        }
+
         if (num1 == num2 || soma > 20){
             System.out.println("agrega valor");
         } else {
